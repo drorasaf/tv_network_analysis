@@ -1,0 +1,5 @@
+Network series analysis consists of 4 stages:
+1. Get name of series per network - creates channel_db.py(currently done manually)
+2. Get information of each series(create_channel_df.py)
+3. Save the information -> channel_series.csv
+4. Analyze the information - analyze_channel_series.py
